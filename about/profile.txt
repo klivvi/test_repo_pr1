@@ -1,3 +1,4 @@
 Name: Viktoriia
 Surname: Kovrigina
 Location: Saint-Petersburg
+Email: vikapade@gmail.com
